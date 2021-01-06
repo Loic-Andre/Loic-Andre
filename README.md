@@ -22,7 +22,7 @@ Co-founder and developer of [eZCoporation](https://ezcorp.io/ )
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Andre&layout=compact" />
 </a>
 <hr>
-*camelCase is my destiny !*
+ > camelCase is my destiny !
 <hr>
 
 
