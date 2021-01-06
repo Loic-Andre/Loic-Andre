@@ -15,9 +15,6 @@ I'm a web back-end developer but I can also do front-end but I know less.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Andre&layout=compact)](https://github.com/Loic-Andre/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Andre)](https://github.com/Loic-Andre/github-readme-stats)
 <!--
 **Loic-Andre/Loic-Andre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
