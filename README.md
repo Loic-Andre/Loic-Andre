@@ -4,14 +4,27 @@ Hey welcome on my GitHub page.
 
 ### You want to know more about me ? 
 
-I'm a web back-end developer but I can also do front-end but I know less.
+I'm a web backend developer but I can also do frontend.
 
+<!-- 🌱 I’m currently learning some web technologies-->
+<hr>
+
+### Want more ?
+
+Co-founder and developer of [eZCoporation](https://ezcorp.io/ )
+<hr>
+
+### Stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loic-Andre&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Andre&layout=compact" />
 </a>
+<hr>
+*camelCase is my destiny !*
+<hr>
+
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Loic-Andre&count_private=true&show_icons=true&theme=tokyonight)
