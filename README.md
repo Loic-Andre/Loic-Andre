@@ -6,11 +6,6 @@ Hey welcome on my GitHub page.
 
 I'm a web back-end developer but I can also do front-end but I know less.
 
-[](https://github.com/anuraghazra/github-readme-stats)
-
-🌱 I’m currently learning 
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Loic-Andre&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Andre&layout=compact)](https://github.com/Loic-Andre/github-readme-stats)
