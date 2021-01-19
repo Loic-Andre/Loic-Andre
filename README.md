@@ -15,9 +15,9 @@ Co-founder and developer of [eZCoporation](https://ezcorp.io/ )
 
 ### Stats 
 
-
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loic-Andre&count_private=true&show_icons=true&theme=tokyonight" />
-
+</a>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Andre&layout=compact" /> -->
 
 
