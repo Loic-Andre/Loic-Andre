@@ -22,6 +22,3 @@ Co-founder and developer of [eZCoporation](https://ezcorp.io/ )
 
 
 <hr>
-
- > *camelCase is my destiny !*
- 
